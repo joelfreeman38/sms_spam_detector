@@ -30,13 +30,4 @@ https://pandas.pydata.org/docs/reference/frame.html
 This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community.
 For more information see the [Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct/).
 
-
-## Support
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-data-sourcing-challenge is an open-source project with a single maintainer. The best way to resolve your issue is to fix it yourself. Fork the repository and submit a pull request. 
-
-
-
-
 [1]: https://github.com/joelfreeman38
